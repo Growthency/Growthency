@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Injamul Haque 👋</h1>
 <h3 align="center">MERN Stack Developer | Certified SEO Expert</h3>
-
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1jnP-_7NlLnkEz__VBIqws4CiphmIebIB" alt="Injamul Haque GitHub Banner" width="100%" style="border-radius: 10px;" />
+</p>
 <p align="center">
   <a href="mailto:itsinjamul@gmail.com">
     <img src="https://img.shields.io/badge/Email-itsinjamul%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
